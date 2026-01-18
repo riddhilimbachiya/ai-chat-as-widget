@@ -14,7 +14,7 @@ For AI products that need a chat interface like **Notion**, **Chronicle**, and *
 
 ## Watch it in action!
 
-https://github.com/user-attachments/assets/2e062c74-d606-4343-a84a-7e462344bd33
+https://github-production-user-asset-6210df.s3.amazonaws.com/87365491/537317092-2e062c74-d606-4343-a84a-7e462344bd33.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260118T193908Z&X-Amz-Expires=300&X-Amz-Signature=14580516a50cbc53088fece9d95332c72f58775c53469319c4228bae46ef0c0b&X-Amz-SignedHeaders=host
 
 
 ## Quick Start / Setup
